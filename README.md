@@ -2,4 +2,4 @@
 
 #BlogApp
 
-Blog Application made with Python Django
+Blog Application made with Django framework in Python.
